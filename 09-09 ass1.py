@@ -1,0 +1,6 @@
+print("My name is  John Raju")
+print("My fname is Nandiyya")
+print("My mname is Mery Kumari")
+print("I am studying  2nd BCA")
+print("My Habits are reading books, Playing games")
+print("I Have interests on practicing coding and algorithms")
